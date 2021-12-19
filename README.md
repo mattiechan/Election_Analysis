@@ -33,7 +33,7 @@ The candidates up for this election are Charles Casper Stockham, Diana DeGette a
 - Charles Casper Stockham came in second with 23% of total votes, with a total of 85,213 votes for his efforts. 
 - Raymon Anthony Doane came in last accounting for 3.1% of the votes with a total of 11,606 votes. 
 
-![Screenshot](election_analysis_results.png)
+![Election Analysis](https://github.com/mattiechan/Election_Analysis/blob/main/Resources/election_analysis_results.png)
 
 ## Election-Audit Summary
 This analysis gives detailed descriptions of county turnout rate, total votes counted in the election and breaks down the data further more by calculating the votes per candidate. With small tweaks to the code , we can analysis the data on a more granular level to determine the percentage rate of votes each candidate received by county. We can also use the same base for this code for a nationwide election by changing out counties for states. 
